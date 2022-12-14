@@ -1,0 +1,17 @@
+img{
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+
+
+
+}
+
+div{
+
+    display: flex;
+    justify-content: center;
+
+}
+
